@@ -1,1 +1,1 @@
-will do later
+I created this project in senior year of highschool. It is a roguelike turn based game with four player combat. If I were to remake this game in the future I would have used comma seprated values to track moves and enemies. I would import these values through a file reading function. This game is unique because all enemies and player controlled characters are interchangable within the code. This means that you can control any enemy in the game simply by putting them into the team array in the code.
